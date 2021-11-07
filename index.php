@@ -36,26 +36,6 @@
 					</label>
 				</div>
 				 <div class="cards cards-restaurants">
-					<!--<a href="restaurant.php" class="card card-restaurant">
-						<img src="img/pizza-plus/preview.jpg" alt="image" class="card-image" />
-						<div class="card-text">
-							<div class="card-heading">
-								<h3 class="card-title">Пицца плюс</h3>
-								<span class="card-tag tag">50 мин</span>
-							</div>
-
-							<div class="card-info">
-								<div class="rating">
-									4.5
-								</div>
-								<div class="price">От 900 ₽</div>
-								<div class="category">Пицца</div>
-							</div>
-
-						</div>
-
-					</a> -->
-
 				</div>
 				<!-- /.cards -->
 			</section>
